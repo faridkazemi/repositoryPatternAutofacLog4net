@@ -1,0 +1,13 @@
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\Fiveways.Logging.dll.config
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\Fiveways.Logging.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\Fiveways.Logging.pdb
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\EntityFramework.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\EntityFramework.SqlServer.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\log4net.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\EntityFramework.xml
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\EntityFramework.SqlServer.xml
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\stage\log4net.xml
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\obj\stage\Fiveways.Logging.csprojResolveAssemblyReference.cache
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\obj\stage\Fiveways.Logging.csproj.CoreCompileInputs.cache
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\obj\stage\Fiveways.Logging.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\obj\stage\Fiveways.Logging.pdb

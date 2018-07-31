@@ -1,0 +1,26 @@
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\Fiveways.Logging.dll.config
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\Fiveways.Logging.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\Fiveways.Logging.pdb
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\EntityFramework.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\log4net.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\EntityFramework.xml
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\bin\Debug\log4net.xml
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\obj\Debug\Fiveways.Logging.csproj.CoreCompileInputs.cache
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\obj\Debug\Fiveways.Logging.dll
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\obj\Debug\Fiveways.Logging.pdb
+C:\TFS\Fiveways Insight\Fiveways Insight\Common\Fiveways.Logging\obj\Debug\Fiveways.Logging.csprojResolveAssemblyReference.cache
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\Fiveways.Logging.dll.config
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\Fiveways.Logging.dll
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\Fiveways.Logging.pdb
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\EntityFramework.dll
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\log4net.dll
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\EntityFramework.xml
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\bin\Debug\log4net.xml
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\obj\Debug\Fiveways.Logging.csprojResolveAssemblyReference.cache
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\obj\Debug\Fiveways.Logging.csproj.CoreCompileInputs.cache
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\obj\Debug\Fiveways.Logging.dll
+C:\Users\fkazemi\Source\Repos\Fiveways.Core\Common\Fiveways.Logging\obj\Debug\Fiveways.Logging.pdb
